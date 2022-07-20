@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_820117_student_student" type="collection">
+        <element choice="1" label="Bio" max_length="40" name="bio" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="30" sequence="0" value="30"/>
+                <element inactive_on_update="false" label="60" sequence="1" value="60"/>
+                <element inactive_on_update="false" label="90" sequence="2" value="90"/>
+                <element inactive_on_update="false" label="100" sequence="3" value="100"/>
+            </choice>
+        </element>
+        <element choice="3" default="30" label="Chem" max_length="40" name="chem" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="30" sequence="0" value="30"/>
+                <element inactive_on_update="false" label="60" sequence="1" value="60"/>
+                <element inactive_on_update="false" label="90" sequence="2" value="90"/>
+                <element inactive_on_update="false" label="100" sequence="3" value="100"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Class" max_length="40" name="class" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father name" max_length="40" name="father_name" type="string"/>
+        <element choice="1" label="Maths" max_length="40" name="maths" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="30" sequence="0" value="30"/>
+                <element inactive_on_update="false" label="60" sequence="1" value="60"/>
+                <element inactive_on_update="false" label="90" sequence="2" value="90"/>
+                <element inactive_on_update="false" label="100" sequence="3" value="100"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Percentage" max_length="15" name="percentage" type="decimal"/>
+        <element choice="3" default="30" label="Phy" max_length="40" name="phy" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="30" sequence="0" value="30"/>
+                <element inactive_on_update="false" label="60" sequence="1" value="60"/>
+                <element inactive_on_update="false" label="90" sequence="2" value="90"/>
+                <element inactive_on_update="false" label="100" sequence="3" value="100"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Principal" max_length="32" name="principal" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Remarks" max_length="40" name="remarks" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Result" max_length="40" name="result" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pass" sequence="0" value="pass"/>
+                <element inactive_on_update="false" label="Fail" sequence="1" value="fail"/>
+                <element inactive_on_update="false" label="Withheld" sequence="2" value="withheld"/>
+            </choice>
+        </element>
+        <element label="Roll no" max_length="40" name="roll_no" type="integer"/>
+        <element attributes="encode_utf8=false" label="Student name" max_length="32" name="student" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Student Email" max_length="40" name="student_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Student name" max_length="40" name="student_name" type="string"/>
+        <element label="New Integer" max_length="40" name="u_integer_5" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_3" type="string"/>
+        <index name="index">
+            <element name="principal"/>
+        </index>
+        <index name="index2">
+            <element name="student"/>
+        </index>
+    </element>
+</database>

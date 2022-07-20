@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Result" section_id="d99043691b745910f431ebd5624bcb7b" sys_domain="global" table="x_820117_student_student" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>result</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:57:04</sys_created_on>
+            <sys_id>85f543ad1b745910f431ebd5624bcba4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Result" display_value="Result" name="x_820117_student_student" sys_domain="global" view="Default view">d99043691b745910f431ebd5624bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:57:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Result</caption>
+            <header>false</header>
+            <name>x_820117_student_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:33:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d99043691b745910f431ebd5624bcb7b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_820117_student_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student " source="x_820117_student">218d36a51b745910f431ebd5624bcb7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student ">218d36a51b745910f431ebd5624bcb7d</sys_scope>
+            <sys_update_name>sys_ui_section_d99043691b745910f431ebd5624bcb7b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:33:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

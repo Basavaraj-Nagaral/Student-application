@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="999043691b745910f431ebd5624bcb7c" sys_domain="global" table="x_820117_student_student" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:33:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5d9043691b745910f431ebd5624bcb7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_820117_student_student" name="x_820117_student_student" sys_domain="global" view="Default view">999043691b745910f431ebd5624bcb7c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_820117_student_student" sys_domain="global" view="Default view">3b6ffee51b745910f431ebd5624bcbc0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:33:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:33:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d99043691b745910f431ebd5624bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_820117_student_student" name="x_820117_student_student" sys_domain="global" view="Default view">999043691b745910f431ebd5624bcb7c</sys_ui_form>
+            <sys_ui_section caption="Result" display_value="Result" name="x_820117_student_student" sys_domain="global" view="Default view">d99043691b745910f431ebd5624bcb7b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:33:37</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:44:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa23c7e91b745910f431ebd5624bcbde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_820117_student_student" name="x_820117_student_student" sys_domain="global" view="Default view">999043691b745910f431ebd5624bcb7c</sys_ui_form>
+            <sys_ui_section caption="Subjects" display_value="Subjects" name="x_820117_student_student" sys_domain="global" view="Default view">9223c7e91b745910f431ebd5624bcb84</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:44:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:44:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e623c7e91b745910f431ebd5624bcbe2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_820117_student_student" name="x_820117_student_student" sys_domain="global" view="Default view">999043691b745910f431ebd5624bcb7c</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_820117_student_student" sys_domain="global" view="Default view">5e23c7e91b745910f431ebd5624bcbdb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:44:53</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_820117_student_student</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-20 04:33:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>999043691b745910f431ebd5624bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_820117_student_student</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student " source="x_820117_student">218d36a51b745910f431ebd5624bcb7d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Student ">218d36a51b745910f431ebd5624bcb7d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_999043691b745910f431ebd5624bcb7c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-20 04:33:37</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
